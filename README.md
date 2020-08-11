@@ -1,9 +1,17 @@
-### Hi there 👋
+# Fabio Soares
+[![Linkedin Badge](https://img.shields.io/badge/-FabioSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/fabio-soaresv)](http://linkedin.com/in/fabio-soaresv) 
+[![Gmail Badge](https://img.shields.io/badge/-soaresventurellifabio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soaresventurellifabio@gmail.com)](mailto:soaresventurellifabio@gmail.com)
 
-Here are some ideas to get you started:
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
+I'm Fabio Soares.
+I'm a Software Backend Engineer :computer:
+
+- :rocket:   I’m currently working at [**AutoSeg**](https://github.com/autoseg)
+- :heart:   Ruby on Rails
+- :computer:   Docker, AWS, RSpec, Buddy
+- 💬   Ask me about: tech, games, beer :beer:
 
 - 🔭 My Portfolio: [fabiosoares.herokuapp](http://fabiosoares.herokuapp.com)
-- 📫 How to reach me: fabiosoares@outlook.com.br
 - ⚡ My contributions:
 <center>
 <table>
