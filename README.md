@@ -10,19 +10,8 @@ I'm a Software Backend Engineer :computer:
 - :rocket:   I’m currently working at [**AutoSeg**](https://github.com/autoseg)
 - :heart:   Ruby on Rails
 - 💬   Ask me about: tech, games, series, animes, beer :beer:
-- 🔭 My Portfolio: [![Heroku Badge](https://img.shields.io/badge/-Portfolio-430098?logo=heroku&logoColor=white&labelColor=430098&link=http://fabiosoares.herokuapp.com/)](http://fabiosoares.herokuapp.com/) 
-- ⚡ My contributions:
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosoaresv&hide=html&layout=compact" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=fabiosoaresv&count_private=true" /></td>
-  </tr>  
-    <tr>
-</td>
-  </tr>  
-</table>
-</center>
+- 🔭 My portfolio: 
+[![Heroku Badge](https://img.shields.io/badge/-Portfolio-430098?logo=heroku&logoColor=white&labelColor=430098&link=http://fabiosoares.herokuapp.com/)](http://fabiosoares.herokuapp.com/) 
 - :computer: Technologies:
 
 **Operational Systems:**
@@ -44,3 +33,15 @@ I'm a Software Backend Engineer :computer:
 **Others Technologies:**
 
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" /> <img src="https://img.shields.io/badge/-Buddy-1A86FD?logo=buddy&logoColor=white&labelColor=1A86FD" alt="Buddy" /> <img src="https://img.shields.io/badge/-Semaphore%20CI-19A974?logo=semaphore-ci&logoColor=white&labelColor=19A974" alt="Semaphore CI" /> <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="Amazon AWS" /> <img src="https://img.shields.io/badge/-Curl-073551?logo=curl&logoColor=white&labelColor=073551" alt="Curl" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman" /> <img src="https://img.shields.io/badge/-Sublime-grey?logo=sublime-text&logoColor=orange&labelColor=grey" alt="Sublime" /> <img src="https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&labelColor=019733" alt="Vim" /> <img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&labelColor=4A154B" alt="Slack" /> <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&labelColor=D22128" alt="Apache" /> <img src="https://img.shields.io/badge/-Nginx-269539?logo=nginx&logoColor=white&labelColor=269539" alt="Ngnix" /> <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&labelColor=430098" alt="Heroku" />
+- ⚡ My contributions:
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosoaresv&hide=html&layout=compact" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=fabiosoaresv&count_private=true" /></td>
+  </tr>  
+    <tr>
+</td>
+  </tr>  
+</table>
+</center>
