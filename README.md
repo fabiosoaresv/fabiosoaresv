@@ -1,5 +1,5 @@
 # Fabio Soares
-[![Linkedin Badge](https://img.shields.io/badge/-FabioSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/fabio-soaresv)](http://linkedin.com/in/fabio-soaresv) 
+[![Linkedin Badge](https://img.shields.io/badge/-Fabio%20Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/fabio-soaresv)](http://linkedin.com/in/fabio-soaresv) 
 [![Gmail Badge](https://img.shields.io/badge/-soaresventurellifabio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soaresventurellifabio@gmail.com)](mailto:soaresventurellifabio@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-fabiosoares@outlook.com.br-0078D4?logo=microsoft-outlook&logoColor=white&labelColor=0078D4&link=mailto:fabiosoares@outlook.com.br)](mailto:fabiosoares@outlook.com.br)
 
