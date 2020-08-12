@@ -20,7 +20,7 @@ I'm a Software Backend Engineer :computer:
 
 **Language and Backend:**
 
-<img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&labelColor=CC342D" alt="Ruby" /> <img src="https://img.shields.io/badge/-Ruby%20on%20Rails%20-CC0000?logo=ruby-on-rails&logoColor=white&labelColor=CC0000" alt="Ruby on Rails" /> <img src="https://img.shields.io/badge/-Shell%20Script-4EAA25?logo=gnu-bash&logoColor=white&labelColor=4EAA25" alt="Shell Script" /> <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&labelColor=5391FE" alt="PowerShell" /> <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&labelColor=CC6699" alt="Sass" />
+<img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&labelColor=CC342D" alt="Ruby" /> <img src="https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white&labelColor=CC0000" alt="Rails" /> <img src="https://img.shields.io/badge/-Shell%20Script-4EAA25?logo=gnu-bash&logoColor=white&labelColor=4EAA25" alt="Shell Script" /> <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&labelColor=5391FE" alt="PowerShell" /> <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&labelColor=CC6699" alt="Sass" />
 
 **Versioning and Communication:**
 
