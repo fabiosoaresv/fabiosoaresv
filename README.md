@@ -7,7 +7,7 @@
 I'm Fabio Soares.
 I'm a Software Backend Engineer :computer:
 
-- :rocket:   I’m currently working at [**Meta**](https://www.meta.com.br)
+- :rocket:   I’m currently working at [**@cargox**](https://github.com/cargox)
 - :heart:   Ruby on Rails
 - 💬   Ask me about: tech, games, series, animes, beer :beer:
 - 🔭 My portfolio: 
