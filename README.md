@@ -7,10 +7,10 @@
 I'm Fabio Soares.
 I'm a Software Backend Engineer :computer:
 
-- :rocket:   I’m currently working at [**@cloudwalk**](https://github.com/cloudwalk)
+<!-- - :rocket:   I’m currently working at [**@cloudwalk**](https://github.com/cloudwalk) -->
 - 💬   Ask me about: tech, games, series, animes, beer :beer:
-- 🔭 My portfolio: 
-[![Heroku Badge](https://img.shields.io/badge/-Portfolio-430098?logo=heroku&logoColor=white&labelColor=430098&link=http://fabiosoares.herokuapp.com/)](http://fabiosoares.herokuapp.com/) 
+<!-- - 🔭 My portfolio: 
+[![Heroku Badge](https://img.shields.io/badge/-Portfolio-430098?logo=heroku&logoColor=white&labelColor=430098&link=http://fabiosoares.herokuapp.com/)](http://fabiosoares.herokuapp.com/) -->
 - :computer: Technologies:
 
 **Operational Systems:**
